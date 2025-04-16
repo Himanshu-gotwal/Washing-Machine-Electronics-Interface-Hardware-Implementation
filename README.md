@@ -27,7 +27,7 @@ Serial Monitor – for debugging and output
 
 Git – for version control
 
-💡 Hardware Used
+#💡 Hardware Used #
 Raspberry Pi Pico
 
 2x 74HC595 Shift Registers
@@ -50,7 +50,7 @@ Breadboard & jumper wires
 
 5V Power Supply
 
-🚀 Getting Started
+# 🚀 Getting Started #
 1. Clone the Repository
 2. Upload Code
 Open main.ino in Arduino IDE
@@ -62,9 +62,9 @@ Connect and upload
 3. Hardware Connections
 Refer to the schematic image or schematics in the docs/ folder for full wiring details.
 
-📁 Additional Images & Files - Google Drive
+# 📁 Additional Images & Files - Google Drive #
 
-📈 Future Scope
+# 📈 Future Scope #
 🌐 Add IoT-based control using a web interface or smartphone app
 
 📲 Access washing data and logs remotely
@@ -77,7 +77,7 @@ Refer to the schematic image or schematics in the docs/ folder for full wiring d
 
 🔗 Bluetooth/WiFi-based remote control
 
-📚 References
+# 📚 References #
 Raspberry Pi Pico Datasheet
 
 74HC595 Shift Register Datasheet
