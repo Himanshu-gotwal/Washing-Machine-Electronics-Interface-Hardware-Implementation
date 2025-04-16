@@ -1,7 +1,7 @@
-#🧺  Washing Machine Electronics Interface & Hardware Implementation #
+🧺  # Washing Machine Electronics Interface & Hardware Implementation #
 A DIY embedded project to simulate a washing machine's electronic control interface using Raspberry Pi Pico, 74HC595 shift registers, rotary encoder, temperature sensor, and 7-segment display, developed using Arduino IDE and Thonny (MicroPython and cpp). 
 
-#🔧 Features #
+# 🔧 Features #
 Rotary encoder to select wash programs (8 in total)
 
 74HC595-based LEDs to indicate selected program
@@ -18,7 +18,7 @@ Status LEDs (Green: Running, Yellow: Temp, Red: Lock)
 
 Buzzer alert at end of program
 
-#🖥️ Software Stack #
+# 🖥️ Software Stack #
 Arduino IDE – for writing and uploading embedded C code
 
 Thonny IDE – for MicroPython code testing (if applicable)
